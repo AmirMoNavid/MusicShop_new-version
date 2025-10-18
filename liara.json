@@ -1,0 +1,9 @@
+{
+  "platform": "node",
+  "port": 3000,
+  "build": {
+    "command": "npm run build",
+    "output": "build"
+  },
+  "start": "npm start"
+}
